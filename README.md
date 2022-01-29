@@ -1,2 +1,2 @@
 # Aeolian-Drone-Project
-This project aims at optimising drone's battery usage by predicting the impact of several factors including wind.   
+Drone is promissing for last-mile delivery application but inefficient in terms of energy consumption. This project aims at predicting and optimising drone's battery usage. The data used comes from a publicly published flight tests on drones. I have prepared and studied the data and used machine learning (XGBoost) and deep learning (LSTM) for modeling. I have also deveoFor further explanation please refer to the Main.ipynb    
