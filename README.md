@@ -16,7 +16,9 @@ These features together with the operational data e.g. payload weight, programme
 I have also developed an app using the machine learning predictor model, named as Aeolus, which receives the operational data, queries for the local wind speed at the flight level and predicts the battery usage.
 
 <img src="/images/Aeolus.png" width=300 height=300>
+
 https://github.com/AmirShakouri19/Aeolian-Drone-Project/blob/main/images/Aeolus.mp4
+
 
 Finally, I am developing a deep learning model (LSTM) which is going to basically identify the temporal (instantanous) drone power consumption - not time-averaged. This model aims to further investigate the stochastic nature of the problem with resepect to wind and the shifts between various phases of the flight. 
 For further explanation please refer to the Main.ipynb. The contents of this project is getting updated...    
