@@ -23,5 +23,4 @@ https://github.com/AmirShakouri19/Aeolian-Drone-Project/blob/main/images/Aeolus.
 Finally, I am developing a deep learning model (LSTM) which is going to basically identify the temporal (instantanous) drone power consumption - not time-averaged. This model aims to further investigate the stochastic nature of the problem with resepect to wind and the shifts between various phases of the flight. 
 For further explanation please refer to the Main.ipynb. The contents of this project is getting updated...    
 
-
-
+Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
