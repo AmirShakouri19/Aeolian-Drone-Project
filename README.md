@@ -19,6 +19,7 @@ I have also developed an app using the machine learning predictor model, named a
 
 
 You can download a demonstration of the app, here:
+
 https://github.com/AmirShakouri19/Aeolian-Drone-Project/blob/main/images/Aeolus.mp4
 
 
