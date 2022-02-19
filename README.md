@@ -5,7 +5,7 @@ Drone is promissing for last-mile delivery application but inefficient in terms 
 <img src="/images/Image1.png"><img src="/images/Image4.png" width=200 height=200>
 
 
-I have prepared and studied the data and used machine learning (XGBoost), unsupervised learning (k-Nearest Neighbors) and deep learning (LSTM) for modeling. The unsupervised learning model identifies various flight phases in the training data which is then used as a feature. Another feature which is extracted is the local wind (using measured data or weather API).
+I have prepared and studied the data and used machine learning (XGBoost), unsupervised learning (k-Nearest Neighbors) and deep learning (LSTM) for modeling. The unsupervised learning model identifies various flight phases in the training data which is then used as a feature. Another useful feature which I extracted  - using measured data and/or weather API - is the tailwind (wind in flight direction):
 
 <img src="/images/Image6.png"><img src="/images/Image7.png">
 
