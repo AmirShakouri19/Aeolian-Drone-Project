@@ -15,7 +15,7 @@ These features together with the operational data e.g. payload weight, programme
 
 I have also developed an app using the machine learning predictor model, named as Aeolus, which receives the operational data, queries for the local wind speed at the flight level and predicts the battery usage.
 
-                                                    <img src="/images/Aeolus.png" width=200 height=200>
+<img src="/images/Aeolus.png" width=200 height=200>
 
 
 You can download a demonstration of the app, here:
