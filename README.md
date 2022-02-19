@@ -2,7 +2,7 @@
 
 Drone is promissing for last-mile delivery application but inefficient in terms of energy consumption. This project aims at predicting and optimising drone's battery usage. The data used comes from a publicly published flight test study of drones:
 
-<img src="/images/Image1.png">  <img src="/images/Image4.png" width=200 height=200>
+<img src="/images/Image1.png"> <img src="/images/Image4.png" width=200 height=200>
 
 
 I have prepared and studied the data and used machine learning (XGBoost), unsupervised learning (k-Nearest Neighbors) and deep learning (LSTM) for modeling. The unsupervised learning model identifies various flight phases in the training data which is then used as a feature. Another feature which is extracted is the local wind (using measured data or weather API).
