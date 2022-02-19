@@ -1,6 +1,5 @@
 # Aeolian-Drone-Project
 
-## Background
 Drone is promissing for last-mile delivery application but inefficient in terms of energy consumption. This project aims at predicting and optimising drone's battery usage. The data used comes from a publicly published flight test study of drones.
 
 <img src="/images/Image1.png">
